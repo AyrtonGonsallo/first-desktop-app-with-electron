@@ -15,6 +15,9 @@
 /node_modules
 npm-debug.log
 yarn-error.log
+.vscode/
+anime-master/.github
+anime-master/documentation
 
 # IDEs and editors
 .idea/

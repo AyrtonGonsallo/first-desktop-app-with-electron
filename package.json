@@ -12,5 +12,8 @@
   "description": "",
   "devDependencies": {
     "electron": "^30.0.2"
+  },
+  "dependencies": {
+    "animejs": "^3.2.2"
   }
 }

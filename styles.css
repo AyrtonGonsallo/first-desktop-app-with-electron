@@ -1,0 +1,11 @@
+#animatedText {
+    font-size: 24px;
+    color: #000000;
+    opacity: 1; /* Définir l'opacité initiale à 0 pour la transition */
+}
+.wrapper {
+  width: 60%;
+  height: 100%;
+  margin: 100px auto;
+}
+
