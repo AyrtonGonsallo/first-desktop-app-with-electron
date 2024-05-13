@@ -11,10 +11,10 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "electron": "^30.0.2"
+    "electron": "^30.0.2",
+    "electron-builder": "^24.13.3"
   },
   "dependencies": {
-    "animejs": "^3.2.2",
-    "electron-router": "^0.5.1"
+    "animejs": "^3.2.2"
   }
 }
