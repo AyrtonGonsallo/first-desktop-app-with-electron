@@ -15,6 +15,23 @@
     "electron-builder": "^24.13.3"
   },
   "dependencies": {
-    "animejs": "^3.2.2"
+    "animejs": "^3.2.2",
+    "sqlite3": "^5.1.7"
+  },
+  "build": {
+    "appId": "com.example.myapp",
+    "productName": "gpt-desktop",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "portable"
+    },
+    "mac": {
+      "target": "dmg"
+    },
+    "linux": {
+      "target": "AppImage"
+    }
   }
 }
